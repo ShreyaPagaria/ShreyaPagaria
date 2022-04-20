@@ -1,7 +1,7 @@
 ### Hi, I'm Shreya Pagaria 👋
 
-<!--
-**I'm a Sophomore, Chemical Engineering at IIT Jodhpur. I'm skilled in Python, C and have basic knowledge of Data Strcutures and Algorithms. 
+
+I'm a Sophomore, Chemical Engineering at IIT Jodhpur. I'm skilled in Python, C and have basic knowledge of Data Strcutures and Algorithms. 
 I love to try new things and am keen to work on interesting web developing projects.
  
  Reach me:
