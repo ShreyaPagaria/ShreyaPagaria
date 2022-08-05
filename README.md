@@ -1,7 +1,7 @@
 # Hi, I'm Shreya Pagaria 👋
 
 ## 🚀 About Me
-I'm a Sophomore, Chemical Engineering at IIT Jodhpur. I'm skilled in Python, C, C++, HTML, CSS, JavaScript and have basic knowledge of Data Strcutures and Algorithms, also a beginner in React Js. 
+I'm a Junior, Chemical Engineering at IIT Jodhpur. I'm skilled in Python, C, C++, HTML, CSS, JavaScript and have basic knowledge of Data Strcutures and Algorithms, also a beginner in React Js. 
 I love to try new things and am keen to work on interesting web developing projects.
  
 ## 🔗 Links
