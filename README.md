@@ -27,6 +27,9 @@
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white&style=flat)
 
 ---
+## Publications
+
+- **Role of Non-Covalent Interactions on Acid Strength Measurement of Liquid Acids using Phosphine Oxide NMR Probe**, *Chemistry Select journal*, Co-authored with Dr. Sanjay M. Mahajani, Ojus Mohan, and others.
 
 ### 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreya-pagaria)
