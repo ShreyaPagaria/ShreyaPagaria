@@ -8,8 +8,11 @@
 ---
 
 ### 💼 Projects
-- **[NSL KDD Classification with ML Models](#)**  
-  - Leveraged Decision Tree and Logistic Regression models on NSL-KDD dataset, achieving a test accuracy of **75%**.
+- **[Soccer Player Statistics Analysis and Prediction (2015-2022)](#)**  in collaboration with Eesha Kulkarni
+  - Conducted data integration by ingesting soccer player statistics into a PostgreSQL database with a unified schema.
+  - Developed PySpark models using Linear Regression (RMSE: 1.00) and Decision Tree Regression (RMSE: 1.58) with hyperparameter tuning.
+  - Built Deep MLP (RMSE: 0.69) and Dense MLP (RMSE: 0.81) models in PyTorch for player rating prediction, leveraging feature engineering and hyperparameter optimization
+  - Deployed analytics and ML workflows on the cloud, integrating PostgreSQL for data management.
   
 - **[F1 Race Data Analysis (1950-2024)](#)**  
   - working on analysing decades of F1 race data to explore patterns in winning strategies, driver performances, and team evolution.
