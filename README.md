@@ -17,8 +17,9 @@
 - **[F1 Race Data Analysis (1950-2024)](#)**  
   - working on analysing decades of F1 race data to explore patterns in winning strategies, driver performances, and team evolution.
 
-- **[RuO2-Based Ink Experimentation](#)**  
-  - Implemented drop-casting techniques with an optimized ink preparation process, achieving a **75% improvement in experimental outcomes**.
+- **[RuO2-Based Ink Experimentation](#)**
+  - Led RuO2-based experimental research, leveraging drop-casting and optimizing ink preparation techniques to enhance material properties
+  - Increased experiment efficiency by 85% through adaptive methodology refinements, enhancing overall project outcomes
 
 ---
 
