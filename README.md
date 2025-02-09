@@ -7,7 +7,12 @@
 
 ---
 
+### 🚀 [Spotify to MP3 Converter](https://github.com/ShreyaPagaria/MusicMate)
+#### This is a **Spotify to MP3 converter** that allows users to easily convert Spotify playlists into downloadable MP3 files. The app processes Spotify playlist URLs and provides a simple way to download each track via links that redirect to the corresponding MP3 files hosted on the server.
+
+
 ### 💼 Projects
+
 - **[Soccer Player Statistics Analysis and Prediction (2015-2022)](#)**  in collaboration with Eesha Kulkarni
   - Conducted data integration by ingesting soccer player statistics into a PostgreSQL database with a unified schema.
   - Developed PySpark models using Linear Regression (RMSE: 1.00) and Decision Tree Regression (RMSE: 1.58) with hyperparameter tuning.
@@ -16,10 +21,6 @@
   
 - **[F1 Race Data Analysis (1950-2024)](#)**  
   - working on analysing decades of F1 race data to explore patterns in winning strategies, driver performances, and team evolution.
-
-- **[RuO2-Based Ink Experimentation](#)**
-  - Led RuO2-based experimental research, leveraging drop-casting and optimizing ink preparation techniques to enhance material properties
-  - Increased experiment efficiency by 85% through adaptive methodology refinements, enhancing overall project outcomes
 
 ---
 
