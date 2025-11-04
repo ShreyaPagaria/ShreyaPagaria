@@ -14,7 +14,7 @@
   - Leading benchmarking and co-authoring an ongoing research study on time-series anomaly detection, developing an LSTM-FCN model (98.91% test accuracy) that currently outperforms XGBoost, LSTM baselines on the Tennessee Eastman Process dataset.
 
 -  **[Spotify to MP3 Converter](https://github.com/ShreyaPagaria/MusicMate)**
-  - This is a **Spotify to MP3 converter** that allows users to easily convert Spotify playlists into downloadable MP3 files. The app processes Spotify playlist URLs and provides a simple way to download each track via links that redirect to the corresponding MP3 files hosted on the server.
+  -  This is a **Spotify to MP3 converter** that allows users to easily convert Spotify playlists into downloadable MP3 files. The app processes Spotify playlist URLs and provides a simple way to download each track via links that redirect to the corresponding MP3 files hosted on the server.
   
 
 - **[Soccer Player Statistics Analysis and Prediction (2015-2022)](#)**  in collaboration with Eesha Kulkarni
