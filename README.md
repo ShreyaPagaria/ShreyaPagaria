@@ -10,7 +10,7 @@
 ### 💼 Projects
 
 - **[Time Series Anomaly Detection | Carnegie Mellon University)](#)**  in collaboration with Kitchin Group
-- Graduate Student Researcher 
+  -_ Graduate Student Researcher _
   - Leading benchmarking and co-authoring an ongoing research study on time-series anomaly detection, developing an LSTM-FCN model (98.91% test accuracy) that currently outperforms XGBoost, LSTM baselines on the Tennessee Eastman Process dataset.
 
 -  **[Spotify to MP3 Converter](https://github.com/ShreyaPagaria/MusicMate)**
