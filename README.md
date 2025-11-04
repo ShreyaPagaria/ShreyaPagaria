@@ -3,7 +3,7 @@
 ### About Me
 🚀 I'm a Master's student in Artificial Intelligence - Chemical Engineering with a focus on data science, data engineering, and machine learning. With hands-on experience using **PySpark**, **PostgreSQL**, and **Python**, I'm skilled in handling large datasets, building scalable data pipelines, and deriving meaningful insights.
 
-🔍 Currently open to full-time roles that combine **data engineering ** and **machine learning** to drive impactful, production-ready solutions. I’m eager to apply my expertise in designing scalable ML pipelines, data processing, deep learning, and distributed training pipelines using **PySpark, PyTorch, and HPC systems.** Let’s connect if you’re working on innovative data-driven projects!
+🔍 Currently open to full-time roles that combine **data engineering** and **machine learning** to drive impactful, production-ready solutions. I’m eager to apply my expertise in designing scalable ML pipelines, data processing, deep learning, and distributed training pipelines using **PySpark, PyTorch, and HPC systems.** Let’s connect if you’re working on innovative data-driven projects!
 
 ---
 
