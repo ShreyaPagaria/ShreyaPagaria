@@ -9,9 +9,12 @@
 
 ### 💼 Projects
 
-- **[Time Series Anomaly Detection | Carnegie Mellon University)](#)**  in collaboration with Kitchin Group
-  -_ Graduate Student Researcher _
+- **[Time Series Anomaly Detection | Carnegie Mellon University)](#)**  in collaboration with Kitchin Group (_Graduate Student Researcher_)
   - Leading benchmarking and co-authoring an ongoing research study on time-series anomaly detection, developing an LSTM-FCN model (98.91% test accuracy) that currently outperforms XGBoost, LSTM baselines on the Tennessee Eastman Process dataset.
+
+
+- **[Solid State Synthesis | Carnegie Mellon University)](#)**  in collaboration with Dr. Evan Spotte-Smith (_Graduate Student Researcher_)
+  - Assisted in preprocessing benchmark data using Pymatgen, MDTraj and LAMMPS trajectory files for CEGANN model, testing it on benchmark datasets in collaboration with Toyota Research Institute
 
 -  **[Spotify to MP3 Converter](https://github.com/ShreyaPagaria/MusicMate)**
   -  This is a **Spotify to MP3 converter** that allows users to easily convert Spotify playlists into downloadable MP3 files. The app processes Spotify playlist URLs and provides a simple way to download each track via links that redirect to the corresponding MP3 files hosted on the server.
