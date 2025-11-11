@@ -8,23 +8,17 @@
 ---
 
 ### 💼 Projects
+- **[Agentic Financial Fraud Detector](#)**  
+  - Built a multi-model fraud detection system (XGBoost, RF, AE, IF) with SHAP interpretability, LLM-based explanations, and adversarial robustness evaluation via noise and camouflage attacks.
 
 - **[Time Series Anomaly Detection | Carnegie Mellon University)](#)**  in collaboration with Kitchin Group (_Graduate Student Researcher_)
   - Leading benchmarking and co-authoring an ongoing research study on time-series anomaly detection, developing an LSTM-FCN model (99.04% test accuracy) that currently outperforms XGBoost, LSTM baselines on the Tennessee Eastman Process dataset.
-
 
 - **[Solid State Synthesis | Carnegie Mellon University)](#)**  in collaboration with Dr. Evan Spotte-Smith (_Graduate Student Researcher_)
   - Assisted in preprocessing benchmark data using Pymatgen, MDTraj and LAMMPS trajectory files for CEGANN model, testing it on benchmark datasets in collaboration with Toyota Research Institute
 
 -  **[Spotify to MP3 Converter](https://github.com/ShreyaPagaria/MusicMate)**
   -  This is a **Spotify to MP3 converter** that allows users to easily convert Spotify playlists into downloadable MP3 files. The app processes Spotify playlist URLs and provides a simple way to download each track via links that redirect to the corresponding MP3 files hosted on the server.
-  
-
-- **[Soccer Player Statistics Analysis and Prediction (2015-2022)](#)**  in collaboration with Eesha Kulkarni
-  - Conducted data integration by ingesting soccer player statistics into a PostgreSQL database with a unified schema.
-  - Developed PySpark models using Linear Regression (RMSE: 1.00) and Decision Tree Regression (RMSE: 1.58) with hyperparameter tuning.
-  - Built Deep MLP (RMSE: 0.69) and Dense MLP (RMSE: 0.81) models in PyTorch for player rating prediction, leveraging feature engineering and hyperparameter optimization
-  - Deployed analytics and ML workflows on the cloud, integrating PostgreSQL for data management.
   
 - **[F1 Race Data Analysis (1950-2024)](#)**  
   - working on analysing decades of F1 race data to explore patterns in winning strategies, driver performances, and team evolution.
