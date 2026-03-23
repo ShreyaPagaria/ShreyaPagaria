@@ -5,10 +5,10 @@
 I build **production-ready ML systems** that actually work in the real world — not just notebooks.
 
 With a background in **AI + Chemical Engineering (CMU)**, I focus on:
-- ⚡ Scalable data pipelines (PySpark, distributed systems)
-- 🧠 Deep learning & time-series modeling (PyTorch)
-- 🏗️ End-to-end ML systems (data → model → deployment)
-- 🖥️ High-performance computing (HPC, large-scale training)
+- Scalable data pipelines (PySpark, distributed systems)
+- Deep learning & time-series modeling (PyTorch)
+- End-to-end ML systems (data → model → deployment)
+- High-performance computing (HPC, large-scale training)
 
 I enjoy working at the intersection of **ML + systems + real-world impact** — whether it's anomaly detection in industrial processes, fraud detection, or building intelligent pipelines that scale.
 
@@ -18,28 +18,12 @@ Currently seeking **full-time ML / AI Engineer roles** where I can build, optimi
 
 ### 🧩 What I'm Building
 
-- **🛡️ Agentic Financial Fraud Detector**  
-  Multi-model system (XGBoost, Random Forest, Autoencoder, Isolation Forest) with:
-  - SHAP-based interpretability  
-  - LLM-powered explanations  
-  - Adversarial robustness testing  
+- ** Agentic Financial Fraud Detector**  
+  Built a multi-model fraud detection system (XGBoost, RF, AE, IF) with SHAP interpretability, LLM-based explanations, and adversarial robustness evaluation via noise and camouflage attacks.
 
-- **📈 Time Series Anomaly Detection (CMU Research)**  
-  Benchmarking ML models on the Tennessee Eastman Process dataset  
-  → Built LSTM-FCN achieving **~99% test accuracy**, outperforming traditional baselines  
-  → Co-authoring ongoing research
+- **Time Series Anomaly Detection (CMU Research)**  
+  Co-authored a recently released preprint benchmarking ML fault detection on Tennessee Eastman Process dataset, designed, implemented and evaluated an LSTM-FCN model with best test-set performance (99.37% test accuracy) among all benchmarked models across 18 fault classes and millions of time-series samples.
 
-- **⚗️ Solid-State Synthesis ML (CMU)**  
-  Worked with Pymatgen, MDTraj, and LAMMPS data  
-  → Preprocessed materials datasets for ML models (CEGANN)  
-  → Collaboration with Toyota Research Institute  
-
-- **🎧 Spotify → MP3 Converter**  
-  Built a tool to convert Spotify playlists into downloadable MP3s  
-  → Focus on usability + automation  
-
-- **🏎️ F1 Data Analytics (1950–2024)**  
-  Exploring race strategies, driver performance, and team evolution across decades  
 
 ---
 
