@@ -18,7 +18,7 @@ Currently seeking **full-time ML / AI Engineer roles** where I can build, optimi
 
 ### 🧩 Projects
 
-- ** Agentic Financial Fraud Detector**  
+- **Agentic Financial Fraud Detector**  
   Built a multi-model fraud detection system (XGBoost, RF, AE, IF) with SHAP interpretability, LLM-based explanations, and adversarial robustness evaluation via noise and camouflage attacks.
 
 - **Time Series Anomaly Detection (CMU Research)**  
