@@ -1,8 +1,6 @@
 # Hi, I'm Shreya Pagaria 👋
 
-### 🚀 Machine Learning Engineer | AI Systems | Data @ Scale
-
-I build **production-ready ML systems** that actually work in the real world — not just notebooks.
+### 🚀 Machine Learning Engineer | AI Systems
 
 With a background in **AI + Chemical Engineering (CMU)**, I focus on:
 - Scalable data pipelines (PySpark, distributed systems)
